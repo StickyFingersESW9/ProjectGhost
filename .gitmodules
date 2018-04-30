@@ -1,0 +1,3 @@
+[submodule "Assets/Ddd/CoreModule"]
+	path = Assets/Ddd/CoreModule
+	url = git@github.com:StickyFingersESW9/CoreModule.git
